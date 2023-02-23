@@ -20,3 +20,9 @@
 	#current-image { 
 	  width: 100%;
 	} 
+
+#image-thumbs { 
+  display: flex; 
+  justify-content: center; 
+  margin-top: 20px;
+}
