@@ -657,7 +657,7 @@ input, select, textarea {
 			opacity: 0.5;
 			position: absolute;
 			top: 0;
-			width: 100%;
+			width: 120%;
 		}
 
 		.image img {
