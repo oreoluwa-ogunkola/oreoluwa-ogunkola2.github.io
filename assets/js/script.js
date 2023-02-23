@@ -4,7 +4,7 @@ var imageThumbs = document.getElementById("image-thumbs");
 for (var i = 1; i <= 10; i++) {
   var thumb = document.createElement("img");
   thumb.src ="visual/visual" + i + ".jpg";
-  thumb.alt ="visual " + i;
+  thumb.alt ="visual" + i;
   thumb.classList.add("thumb");
   imageThumbs.appendChild(thumb);
   thumb.addEventListener(
