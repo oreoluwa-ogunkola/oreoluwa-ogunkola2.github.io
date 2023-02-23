@@ -5,8 +5,6 @@ var imageThumbs = document.getElementById("image-thumbs");
 
 for (var i = 1; i <= 10; i++) {
   var thumb = document.createElement("img");
-  thumb.src = "visual/visual" + i + ".png";
-  thumb.alt = "Image " + i;
  
   thumb.addEventListener(
   "click", function() {
