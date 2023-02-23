@@ -1,25 +1,25 @@
 
-	.intro { 
-	  text-align: center; 
-	  font-family: Arial;
-	}
+.intro { 
+  text-align: center; 
+  font-family: Arial;
+}
 
-	h2 { 
-	  font-size: 36px;
-	}
+h2 { 
+  font-size: 36px;
+}
 
-	p { 
-	  font-size: 14pt;
-	}
+p { 
+  font-size: 14pt;
+}
 
-	#image-gallery { 
-	  width: 600px; 
-	  margin: 0 auto;
-	}
+#image-gallery { 
+  width: 600px; 
+  margin: 0 auto;
+}
 
-	#current-image { 
-	  width: 100%;
-	} 
+#current-image { 
+  width: 100%;
+} 
 
 #image-thumbs { 
   display: flex; 
