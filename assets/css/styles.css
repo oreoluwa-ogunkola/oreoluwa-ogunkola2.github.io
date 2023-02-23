@@ -1,4 +1,3 @@
-
 .intro { 
   text-align: center; 
   font-family: Arial;
@@ -22,15 +21,15 @@ p {
 } 
 
 #image-thumbs { 
-  display: flex; 
-  justify-content: center; 
-  margin-top: 20px;
+  display: flex; 
+  justify-content: center; 
+  margin-top: 20px;
 }
 
 .thumb { 
-  width: 80px; 
-  height: 80px; 
-  object-fit: cover; 
-  margin-right: 10px; 
-  cursor: pointer;
+  width: 80px; 
+  height: 80px; 
+  object-fit: cover; 
+  margin-right: 10px; 
+  cursor: pointer;
 }
